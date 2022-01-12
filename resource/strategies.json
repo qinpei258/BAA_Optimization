@@ -1,0 +1,71 @@
+[
+  {
+    "strategy_id": 1,
+    "run_date": "2020-01-01",
+    "_updated_budget": null,
+    "previous_day_spent": 40.0,
+    "previous_allocated_budget": 50.0,
+    "histo_cpc": [
+      {
+        "id": 999,
+        "website_id": 124,
+        "date": "2019-12-10",
+        "strategy_id": 1,
+        "platform_clicks": 1.0,
+        "budget": 1.0
+      }
+    ],
+    "spending_capability": 40.0,
+    "sc_std": null,
+    "slack": 0,
+    "previous_spending_capability": 30.0,
+    "previous_sc_std": 10.0,
+    "cpc": 1.0
+  },
+  {
+    "strategy_id": 2,
+    "run_date": "2020-01-01",
+    "_updated_budget": null,
+    "previous_day_spent": 40.0,
+    "previous_allocated_budget": 50.0,
+    "histo_cpc": [
+      {
+        "id": 999,
+        "website_id": 124,
+        "date": "2019-12-10",
+        "strategy_id": 1,
+        "platform_clicks": 1.25,
+        "budget": 1.0
+      }
+    ],
+    "spending_capability": 20.0,
+    "sc_std": null,
+    "slack": 0,
+    "previous_spending_capability": 30.0,
+    "previous_sc_std": 10.0,
+    "cpc": 0.8
+  },
+  {
+    "strategy_id": 3,
+    "run_date": "2020-01-01",
+    "_updated_budget": null,
+    "previous_day_spent": 40.0,
+    "previous_allocated_budget": 50.0,
+    "histo_cpc": [
+      {
+        "id": 999,
+        "website_id": 124,
+        "date": "2019-12-10",
+        "strategy_id": 1,
+        "platform_clicks": 1.6666666666666667,
+        "budget": 1.0
+      }
+    ],
+    "spending_capability": 5.0,
+    "sc_std": null,
+    "slack": 0,
+    "previous_spending_capability": 30.0,
+    "previous_sc_std": 10.0,
+    "cpc": 0.6
+  }
+]
